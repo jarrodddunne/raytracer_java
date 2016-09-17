@@ -4,7 +4,7 @@ A raytracer in written in Java. Includes reflection, refraction, shadows, motion
 
 ## Motivation
 
-I wanted to learn about vectors and multithreading, and so I decided to write my own raytracer/
+I wanted to learn about vectors and multithreading, and so I decided to write my own raytracer.
 
 ## Installation
 
